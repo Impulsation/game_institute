@@ -20,7 +20,7 @@ int main() {
 
   cout << "Enter a real number: ";
   cin >> n;
-  cout << n << "^3 = " << n * n * n;
+  cout << n << "^3 = " << n * n * n << endl;
 
   return 0;
 }
