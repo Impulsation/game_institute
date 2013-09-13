@@ -15,9 +15,11 @@ int main() {
     cout << toUpperCase(char(i));
   }
   cout << endl;
+
   for (int i = 65; i < 91; i++) {
     cout << toLowerCase(char(i));
   }
+  cout << endl;
   return 0;
 }
 
