@@ -31,6 +31,6 @@ int main() {
     answer = answer * (num_to_factor - i);
   }
 
-  cout << num_to_factor << "! = " << factorial << endl;
+  cout << num_to_factor << "! = " << answer << endl;
   return 0;
 }
